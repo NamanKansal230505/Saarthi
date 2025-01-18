@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "470072475917",
+    "firebase_url": "https://saarthi-84622-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "saarthi-84622",
+    "storage_bucket": "saarthi-84622.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470072475917:android:f12eae43222d42a6533044",
+        "android_client_info": {
+          "package_name": "com.clether.saarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMYRp6L3Gial0wEQN2MJgrnAlH-nw8Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
