@@ -2,18 +2,18 @@
 #include <Firebase_ESP_Client.h>
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "Airtel_Aman Kansal"
-#define WIFI_PASSWORD "@d1r2m3a4n5"
+#define WIFI_SSID "********"
+#define WIFI_PASSWORD "*******"
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyA27lgwgBhByNuye_b5hVOZTeK7IjLLbis"
+#define API_KEY "*************"
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://saarthi-84622-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define DATABASE_URL "****************************" 
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "naman.saarthi@gmail.com"
-#define USER_PASSWORD "12345678"
+#define USER_EMAIL "***************"
+#define USER_PASSWORD "***************"
 
 // Define Firebase Data object
 FirebaseData fbdo;
